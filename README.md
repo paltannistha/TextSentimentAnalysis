@@ -1,5 +1,5 @@
 # Text Sentiment Analysis
-Text Sentiment Analysis in Python using Natural Language Processing (NLP) for Negative/Positive Content Predictions. Deployed on the Cloud using Streamlit on the Heroku Platform.
+Text Sentiment Analysis in Python using Natural Language Processing (NLP) for Negative/Positive Content Predictions and further classification accordingly to Overwhelming Speech, Appreciation Speech, Demoralising Speech and Hate Speech. Deployed on the Cloud using Streamlit on the Heroku Platform.
 
 ## Web Application Demo
 [View the deployed WebApp on Heroku](https://some-app.herokuapp.com/).
